@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Fall2026\\TCPServer\\TCPServer\\TCPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F48B4E1-D659-4AD1-AE11-16E7BED54840}|TCPServer\\TCPServer.vcxproj|G:\\Fall2026\\TCPServer\\TCPServer\\TCPServer\\TCPServer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F48B4E1-D659-4AD1-AE11-16E7BED54840}|TCPServer\\TCPServer.vcxproj|solutionrelative:TCPServer\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "G:\\Fall2026\\TCPServer\\TCPServer\\TCPServer\\TCPServer\\Main.cpp",
+              "RelativeDocumentMoniker": "TCPServer\\Main.cpp",
+              "ToolTip": "G:\\Fall2026\\TCPServer\\TCPServer\\TCPServer\\TCPServer\\Main.cpp",
+              "RelativeToolTip": "TCPServer\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T03:03:47.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
